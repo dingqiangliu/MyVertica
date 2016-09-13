@@ -1,4 +1,4 @@
-<!DOCTYPE html> <html lang="zn_CN"> <head> <meta charset='utf-8'> <title>MyVertica 社区常见问题</title> </head> <body>
+<html lang="zn_CN"> <head> <meta charset='utf-8'> <title>MyVertica 中文社区常见问题</title> </head> <body>
 
 MyVertica中文社区说明
 ==========
