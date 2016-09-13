@@ -1,0 +1,19 @@
+#vim tmp file
+*.un~
+
+# output directories
+Linux64
+Coverage
+Release
+
+# quickbuild cache dir
+.qbcache
+
+# tags files
+TAGS
+.clang_complete
+
+*.pyc
+
+# Added to remove the ServerFarm submodule - remove it after the transition is done
+.gitmodules
