@@ -16,6 +16,18 @@ MyVertica中文社区说明
  * [本文档(https://github.com/dingqiangliu/MyVertica/blob/master/README.md)](https://github.com/dingqiangliu/MyVertica/blob/master/README.md)
  * [Vertica资源下载(http://pan.baidu.com/s/1jXnMu#path=/vertica)](http://pan.baidu.com/s/1jXnMu#path=/vertica)
 
+
+常见问题: Vertica 常用问题 Checklists(更新中...)
+==========
+1. [节点复原(Node Recovery, https://my.vertica.com/node-recovery-checklist/)](https://my.vertica.com/node-recovery-checklist/)
+2. [Spread调试(Spread Debugging, https://my.vertica.com/spread-debugging-checklist/)](https://my.vertica.com/spread-debugging-checklist/)
+3. [数据库进程无法启动(Database Process Not Starting, https://my.vertica.com/database-process-not-starting/)](https://my.vertica.com/database-process-not-starting/)
+5. [事务号管理(Epoch Management, https://my.vertica.com/checklist-draft/)](https://my.vertica.com/checklist-draft/)
+6. [节点宕掉(Node Down, https://my.vertica.com/node-down-checklist/)](https://my.vertica.com/node-down-checklist/)
+7. [Kafka(https://my.vertica.com/apache-kafka-not-ingesting-data/)](https://my.vertica.com/apache-kafka-not-ingesting-data/)
+13. [停节点维护(Shutting down a node for maintenance, https://community.dev.hpe.com/t5/Vertica-Knowledge-Base/Prepare-HP-Vertica-Database-for-Maintenance/ta-p/229524)](https://community.dev.hpe.com/t5/Vertica-Knowledge-Base/Prepare-HP-Vertica-Database-for-Maintenance/ta-p/229524)
+
+
 常见问题: 如何实现Oracle connectby相似功能？
 ==========
 Connectby 实质上就是表自(外)关联和列转行。如果层级不多，是可以用标准SQL来改写。
